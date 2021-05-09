@@ -1,0 +1,16 @@
+#gym-image {
+    text-align: center;
+    height: 300px;
+    width: 250px;
+}
+
+#section-hobby {
+    background-color: aqua;
+    text-align: center
+}
+
+#line {
+    height: 20px;
+    width: 250px;
+    background-color: black
+}
